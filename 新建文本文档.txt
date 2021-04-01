@@ -1,0 +1,5 @@
+git log 
+git log --pretty=oneline
+git reset --hard commit_id
+查看所有的提交：git reflog --pretty=online
+查看分支：git branch
